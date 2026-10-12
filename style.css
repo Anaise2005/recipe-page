@@ -1,1 +1,16 @@
-/* Styles go here */
+body {
+  font-family: Arial, sans-serif;
+  max-width: 600px;
+  margin: 40px auto;
+  background-color: #fff8f0;
+  color: #333;
+}
+
+h1 {
+  text-align: center;
+  color: #d2691e;
+}
+
+h2 {
+  color: #8b4513;
+}
